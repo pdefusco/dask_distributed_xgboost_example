@@ -12,12 +12,16 @@ Before you can run the script, you need to install package dependencies.
 
 Start a new CML Session with the following settings:
 
-Editor: Workbench
-Kernel: Python 3.7
-Edition: Standard
-Version: any version is fine
-Enable Spark: not required
-Resource Profile: a simple 1 vCPU / 2 GiB Memory session will be fine. No GPUs needed.
+* Editor: Workbench
+* Kernel: Python 3.7
+* Edition: Standard
+* Version: any version is fine
+* Enable Spark: not required
+* Resource Profile: a simple 1 vCPU / 2 GiB Memory session will be fine. No GPUs needed.
+
+
+![alt text](img/session_screenshot.png)
+
 
 Once the session is running, open the terminal at the top right and enter the folliwing command:
 
