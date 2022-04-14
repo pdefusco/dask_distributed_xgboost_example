@@ -1,0 +1,5 @@
+pandas
+faker
+dask-ml[complete]
+dask[complete]
+xgboost==1.5.2
